@@ -1,0 +1,46 @@
+.titulo{ 
+    background-color: rgba(225, 231, 230, 0.966);
+    font-style: 'Roboto', sans-serif;
+    text-align:center;
+    height: 50px;
+    padding-top:20px;
+    padding-bottom: 10px;
+    font-family:'Roboto', sans-serif;
+}
+.color-gris{
+    color: rgb(73, 73, 73);
+}
+.parte-arriba{
+    display:contents;
+    background-color:rgba(235, 241, 241, 0.966) ;
+    height: 200px;
+    font-style:'Roboto', sans-serif ;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;}
+
+.segunda-parte{
+    display:inline-block;
+    background-color:rgba(225, 231, 230, 0.966);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-style: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.dirección{
+    display:grid;
+    background-color:rgba(231, 235, 221, 0.966) ;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    font-style: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.volver{
+    color: rgb(73, 73, 73) ;
+    font-style:'Roboto', sans-serif  ;
+    font-family: 'Roboto', sans-serif;
+}

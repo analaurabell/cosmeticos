@@ -1,0 +1,34 @@
+
+.titulo{
+   text-align: center;
+   font-style: 'Roboto', sans-serif;
+   font-family: 'Roboto', sans-serif;
+   background-color: rgba(225, 231, 230, 0.966) ;
+   height: 50px;
+   padding-top:20px;
+   padding-bottom: 10px;
+}
+.primer-parrafo{
+    text-align: left;
+    font-style: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color:rgb(225, 238, 238) ;
+}
+.color-gris{color: rgb(73, 73, 73) 
+}
+.parrafo{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.imagen{
+    display:inline;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.volver{
+    color: rgb(73, 73, 73) ;
+    font-style:'Roboto', sans-serif  ;
+    font-family: 'Roboto', sans-serif;
+}

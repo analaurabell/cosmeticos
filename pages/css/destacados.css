@@ -1,0 +1,72 @@
+.container-titulo{
+    display: grid;
+    background-color: rgba(225, 231, 230, 0.966);
+    font-style: 'Roboto', sans-serif;
+    text-align:center;
+    height: 50px;
+    padding-top:20px;
+    padding-bottom: 10px;
+    font-family:'Roboto', sans-serif ;
+    }
+    .container__productos{
+        display: grid;
+        flex-direction: column;
+        width: 1200px;
+        grid-template-columns: 3fr 3fr;
+        grid-template-rows: 2fr 2fr;
+        grid-column-gap: 10px;
+        grid-row-gap: 15px;
+        font-style: 'Roboto', sans-serif;
+        font-family:'Roboto', sans-serif ;
+       
+       
+    }
+    .container__productos1{display: grid;
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 110px;
+        font-style: 'Roboto', sans-serif;
+        font-family:'Roboto', sans-serif ;
+    
+    }
+    .container__productos2{display: grid;
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 100px;
+        font-style: 'Roboto', sans-serif;
+        font-family:'Roboto', sans-serif ;
+        
+    
+    }
+    .container__productos3{display: grid;
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 110px;
+        font-style: 'Roboto', sans-serif;
+        font-family:'Roboto', sans-serif ;
+    
+    }
+    
+    .container__productos4{display: grid;
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 100px;
+        font-style: 'Roboto', sans-serif;
+        font-family:'Roboto', sans-serif ;
+    
+    }
+    
+    .letra{
+        font-style: 'Roboto', sans-serif;
+        color: dimgrey; 
+    
+    }
+    .volver{  font-style: 'Roboto', sans-serif;
+        text-decoration: none;
+        font-family:'Roboto', sans-serif ;
+    
+    }
+    .color-gris{
+        color: rgb(73, 73, 73);
+        text-decoration: none;
+    }
